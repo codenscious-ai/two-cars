@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    /* width: 1rem; */
+    /* height: 1rem; */
+    text-align: center;
+    font-size: 80px;
+    color: rgb(98, 237, 232);
+    margin: 0;
+}
+
+h2{
+    color: rgb(244, 5, 5);
+}
+h3{
+    font-size: 70px;
+    color: rgb(244, 5, 5);
+}
+
+button {
+    font-size: 30px;
+    border: 2px solid gray;
+    background: white;
+    cursor: pointer;
+    margin: auto;
+    display: block;;
+    
+}
+button:hover{
+    background: gray;
+    color: white;
+}
+
